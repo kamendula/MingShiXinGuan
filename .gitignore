@@ -1,0 +1,33 @@
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 临时文件
+~$*.docx
+~$*.doc
+*.tmp
+*.temp
+
+# 备份文件
+*.bak
+*~
+
+# Office 临时文件
+~$*
+
+# 可能的大文件（如果需要，可以调整）
+# *.pdf
+
+# Mac 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
