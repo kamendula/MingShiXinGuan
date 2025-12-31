@@ -1,3 +1,19 @@
+<div align="center">
+
+# ✨ 让历史不被遗忘，让人物重现光彩 ✨
+
+### *Preserving History, Illuminating Lives*
+
+<img src="https://img.shields.io/badge/明朝-1368--1644-red?style=for-the-badge" alt="明朝">
+<img src="https://img.shields.io/badge/传记收录-60+-blue?style=for-the-badge" alt="传记数量">
+<img src="https://img.shields.io/badge/持续更新-中-green?style=for-the-badge" alt="更新状态">
+
+**📜 拾遗补阙 · 传承文脉 · 重现风华 📜**
+
+---
+
+</div>
+
 # 明外史 (MingWaiShi)
 
 ## 📖 项目简介
@@ -104,5 +120,10 @@ MingWaiShi/
 
 ---
 
-**让历史不被遗忘，让人物重现光彩** ✨
+<div align="center">
 
+### 🌟 Star this project if you find it helpful! 🌟
+
+*愿每一位被历史遗忘的人物，都能在这里找到属于自己的位置*
+
+</div>
